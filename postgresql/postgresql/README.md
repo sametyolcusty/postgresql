@@ -1,2 +1,2 @@
 # postgresql-tutorial
-Code and transcript for my PostgreSQL tutorial
+Code and transcript for learning postgreSQL
